@@ -1,0 +1,12 @@
+h1 {
+  background: black;
+  color: red;
+  padding-bottom: 20px;
+  font-size: 30px;
+}
+
+section {
+  background-color: black;
+  color: white;
+  height: 100vh;
+}
